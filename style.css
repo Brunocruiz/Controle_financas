@@ -62,3 +62,8 @@ main {
     height: 34px;
     cursor: pointer;
 }
+
+input,
+select {
+    padding: 5px;
+}
