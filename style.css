@@ -103,3 +103,7 @@ i {
     text-align: center;
 }
 
+.columnAction > button {
+    background: transparent;
+    border: none;
+}
