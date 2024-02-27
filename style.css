@@ -107,3 +107,7 @@ i {
     background: transparent;
     border: none;
 }
+
+.columnAmount {
+    width: 30%;
+}
