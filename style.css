@@ -111,3 +111,8 @@ i {
 .columnAmount {
     width: 30%;
 }
+
+.columnType {
+    width: 80px;
+    text-align: center;
+}
