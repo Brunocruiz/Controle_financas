@@ -73,3 +73,33 @@ select {
     display: flex;
     justify-content: center;
 }
+
+table {
+    width: 98%;
+    padding: 20px 0;
+    border-radius: 5px;
+}
+
+th {
+    text-align: start;
+    border-bottom: inset;
+    padding-bottom: 5px;
+}
+
+i {
+    font-size: 25px;
+}
+
+.bxs-chevron-up-circle {
+    color: #00c9a7;
+}
+
+.bxs-chevron-down-circle {
+    color: #d83121;
+}
+
+.columnAction {
+    width: 40px;
+    text-align: center;
+}
+
