@@ -67,3 +67,9 @@ input,
 select {
     padding: 5px;
 }
+
+.divTable {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
